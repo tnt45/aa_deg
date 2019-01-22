@@ -1,143 +1,120 @@
-AA			Temp(K)			  Rate (s-1)			References
-Ala   			603			  0.037			    	Li et al. 2002
-			603			  0.01844		    	Li and Brill 2003b
-			593			  0.01018		    	Li and Brill 2003b
-			593			  0.01803		    	Li et al. 2002
-			583			  0.00499		    	Li and Brill 2003b
-			583			  0.00909		    	Li et al. 2002
-			573			  0.00472		    	Li et al. 2002
-			573			  0.0193		    	Sato et al. 2004
-			563			  0.00224		    	Li et al. 2002
-			563			  1.017e-3		  	Abdelmoez et al. 2007
-			553			  0.00111		    	Li et al. 2002
-			533			  3.33e-4		    	Abdelmoez et al. 2007
-			503			  9.5e-5			Abdelmoez et al. 2007
-			473			  7.110e-6		  	Andersson and Holm 2000
-			473			  4.7e-6			Snider and Wolfenden 2000
-      
-Gly   			603			  0.09547		    	Li and Brill 2003b
-			593			  0.06166		    	Li and Brill 2003b
-			583			  0.03715		    	Li and Brill 2003b
-			573			  0.0193		    	Sato et al. 2004
-			563			  2.33e-3		    	Abdelmoez et al. 2007
-			533			  2.33e-4		    	Abdelmoez et al. 2007
-			503			  3.00e-5		    	Abdelmoez et al. 2007
-			473			  3.6e-6			Snider and Wolfenden 2000
-
-Val			603			  0.03056		    	Li and Brill 2003b
-			593			  0.01602		    	Li and Brill 2003b
-			583			  0.00865		    	Li and Brill 2003b
-			563			  1.016e-3		  	Abdelmoez et al. 2007
-			533			  4.50e-5		    	Abdelmoez et al. 2007
-			503			  1.83e-5		    	Abdelmoez et al. 2007
-			489			  5.78e-6		    	Vallentyne 1964
-
-Leu 			603			  0.03075		    	Li and Brill 2003b
-			593			  0.01947		    	Li and Brill 2003b
-			583			  0.01151		    	Li and Brill 2003b
-			573			  0.0397		    	Sato et al. 2004
-			563			  0.0021		    	Abdelmoez et al. 2007
-			555			  2.92e-4		    	Vallentyne 1964
-			533			  0.0002		    	Abdelmoez et al. 2007
-			503			  6.33e-5		    	Abdelmoez et al. 2007
-			473			  2.43e-5		    	Andersson and Holm 2000
-		
-Ile			603			  0.02889		    	Li and Brill 2003b
-			593			  0.01683		    	Li and Brill 2003b
-			583			  0.00808		    	Li and Brill 2003b
-			563			  0.0025		    	Abdelmoez et al. 2007
-			533			  0.00065		    	Abdelmoez et al. 2007
-			503			  0.0003		    	Abdelmoez et al. 2007
-
-Ser			573			  0.4022		    	Sato et al. 2004
-			573			  0.1269		    	Li and Brill 2003a
-			563			  0.07942		    	Li and Brill 2003a
-			563			  2.40e-2		    	Abdelmoez et al. 2007
-			553			  0.05523		    	Li and Brill 2003a
-			543			  0.03409		    	Li and Brill 2003a
-			533			  6.17e-3		    	Abdelmoez et al. 2007
-			503			  1.37e-3		    	Abdelmoez et al. 2007
-			489			  4.35e-4		    	Vallentyne 1964
-			473			  2.92e-4		    	Andersson and Holm 2000
-			458			  2.13e-5		    	Vallentyne 1964
-			425			  4.55e-6		    	Vallentyne 1964
-
-Meth			573			  44.73e-3		  	Li and Brill 2003a
-			563			  28.39e-3		  	Li and Brill 2003a
-			563			  1.05e-2		    	Abdelmoez et al. 2007
-			553			  17.93e-3		  	Li and Brill 2003a
-			543			  10.50e-3		  	Li and Brill 2003a
-			533			  1.47e-3		    	Abdelmoez et al. 2007
-			503			  3.33e-4		    	Abdelmoez et al. 2007
-	
-Phe 			603			  28.64e-3		  	Li and Brill 2003a
-			593			  17.62e-3		  	Li and Brill 2003a
-			583			  9.07e-3		    	Li and Brill 2003a
-			573			  4.24e-3		    	Li and Brill 2003a
-			568			  2.37e-4		    	Vallentyne 1964
-			563			  1.17e-3			Abdelmoez et al. 2007
-			562			  2.16e-4			Vallentyne 1964
-			556			  1.58e-4			Vallentyne 1964
-			552			  1.14e-4			Vallentyne 1964
-			546			  7.10e-5			Vallentyne 1964
-			539			  4.97e-5			Vallentyne 1964
-			533			  2.67e-4			Abdelmoez et al. 2007
-			526			  3.10e-5			Vallentyne 1964
-			505			  9.04e-6			Vallentyne 1964
-			503			  4.83e-5			Abdelmoez et al. 2007
-			498			  5.52e-6			Vallentyne 1964
-			483			  1.77e-6			Vallentyne 1964
-			482			  2.48e-6			Vallentyne 1964
-			481			  1.17e-6			Vallentyne 1964
-			450			  2.07e-7			Vallentyne 1964
-
-Asp			573			  0.4795			Sato et al. 2004
-			533			  0.231				Faisal et al. 2007
-			513			  0.034				Faisal et al. 2007
-			503			  0.012				Abdelmoez et al. 2007
-			493			  0.011				Faisal et al. 2007
-			473			  0.003				Faisal et al. 2007
-			473			  0.0086			Andersson and Holm 2000
-
-Thr 			573			  92.16e-3			Li and Brill 2003a
-			563			  53.94e-3			Li and Brill 2003a
-			553			  32.70e-3			Li and Brill 2003a
-			543			  17.55e-3			Li and Brill 2003a
-			503			  0.0043			Abdelmoez et al. 2007
-			489			  3.70e-4			Vallentyne 1964
-			425			  1.23e-5			Vallentyne 1964
-			386			  1.11e-7			Vallentyne 1964
-
-Pro			613			  7.17e-3			Li and Brill 2003a
-			603			  3.94e-3			Li and Brill 2003a
-			593			  2.05e-3			Li and Brill 2003a
-			563			  1.67e-4			Abdelmoez et al. 2007
-			555			  3.05e-5			Vallentyne 1968
-			533			  6.17e-5			Abdelmoez et al. 2007
-			503			  4.67e-5			Abdelmoez et al. 2007
-			489			  1.71e-7			Vallentyne 1968
-
-His			603			  45.31e-3			Li and Brill 2003a
-			593			  30.33e-3			Li and Brill 2003a
-			583			  16.93e-3			Li and Brill 2003a
-			573			  9.28e-3			Li and Brill 2003a
-			563			  2.33e-3			Abdelmoez et al. 2007
-			533			  3.67e-4			Abdelmoez et al. 2007
-			503			  1.43e-4			Abdelmoez et al. 2007
-
-Arg	  Vallentyne 1968
-	
-Glu	  Povoledo and Vallentyne 1964
-
-
-
-			
-		
-
-			
-		
-
-
-
-
-
+Amino acid	Temperature (K)	Rate constant (s-1) 	References
+Alanine		603		3.70E-02		Li et al., 2002
+		603		1.80E-02		Li & Brill, 2003b
+		593		1.02E-02		Li & Brill, 2003b
+		593		1.80E-02		Li et al., 2002
+		583		5.00E-03		Li & Brill, 2003b
+		583		9.10E-03		Li et al., 2002
+		573		4.72E-03		Li et al., 2002
+		573		1.93E-02		Sato et al., 2004
+		563		2.20E-03		Li et al., 2002
+		563		1.02E-03		Abdelmoez et al., 2007
+		553		1.11E-03		Li et al., 2002
+		533		3.33E-04		Abdelmoez et al., 2007
+		503		9.50E-05		Abdelmoez et al., 2007
+		473		7.11E-06		Andersson & Holm, 2000
+ 		473		4.70E-06		Snider & Wolfenden, 2000
+Arginine	489		5.38E-04		Vallentyne 1968
+ 		374		3.31E-07		Vallentyne 1968
+Aspartic acid	573		4.80E-01		Sato et al., 2004
+		533		2.30E-01		Faisal et al., 2007
+		513		3.40E-02		Faisal et al., 2007
+		503		1.20E-02		Abdelmoez et al., 2007
+		493		1.10E-02		Faisal et al., 2007
+		473		3.00E-03		Faisal et al., 2007
+ 		473		8.60E-03		Andersson & Holm, 2000
+Glutamic acid	553		1.08E-05		Povoledo & Vallentyne, 1964
+		525		2.21E-06		Povoledo & Vallentyne, 1964
+ 		489		1.45E-07		Povoledo & Vallentyne, 1964
+Glycine		603		9.50E-02		Li & Brill, 2003b
+		593		6.20E-02		Li & Brill, 2003b
+		583		3.70E-02		Li & Brill, 2003b
+		573		1.93E-02		Sato et al., 2004
+		563		2.33E-03		Abdelmoez et al., 2007
+		533		2.33E-04		Abdelmoez et al., 2007
+		503		3.00E-05		Abdelmoez et al., 2007
+ 		473		3.60E-06		Snider & Wolfenden, 2000
+Histidine	603		4.53E-02		Li & Brill, 2003a
+		593	3.03E-02	Li & Brill, 2003a
+	583	1.69E-02	Li & Brill, 2003a
+	573	9.28E-03	Li & Brill, 2003a
+	563	2.33E-03	Abdelmoez et al., 2007
+	533	3.67E-04	Abdelmoez et al., 2007
+ 	503	1.43E-04	Abdelmoez et al., 2007
+Isoleucine	603	2.89E-02	Li & Brill, 2003b
+	593	1.68E-02	Li & Brill, 2003b
+	583	8.08E-03	Li & Brill, 2003b
+	563	2.50E+03	Abdelmoez et al., 2007
+	533	6.50E-04	Abdelmoez et al., 2007
+ 	503	3.00E-04	Abdelmoez et al., 2007
+Leucine	603	3.08E-02	Li & Brill, 2003b
+	593	1.95E-02	Li & Brill, 2003b
+	583	1.15E-02	Li & Brill, 2003b
+	573	3.97E-02	Sato et al., 2004
+	563	2.10E-03	Abdelmoez et al., 2007
+	555	2.92E-04	Vallentyne 1964
+	533	2.00E-04	Abdelmoez et al., 2007
+	503	6.33E-05	Abdelmoez et al., 2007
+ 	473	2.43E-05	Andersson & Holm, 2000
+Methionine	573	4.47E-02	Li & Brill, 2003a
+	563	2.84E-02	Li & Brill, 2003a
+	563	1.05E-02	Abdelmoez et al., 2007
+	553	1.79E-02	Li & Brill, 2003a
+	543	1.05E-02	Li & Brill, 2003a
+	533	1.47E-03	Abdelmoez et al., 2007
+ 	503	3.33E-04	Abdelmoez et al., 2007
+Phenylalanine	603	2.86E-02	Li & Brill, 2003a
+	593	1.76E-02	Li & Brill, 2003a
+	583	9.07E-03	Li & Brill, 2003a
+	573	4.24E-03	Li & Brill, 2003a
+	568	2.37E-04	Vallentyne 1964
+	563	1.17E-03	Abdelmoez et al., 2007
+	562	2.16E-04	Vallentyne 1964
+	556	1.58E-04	Vallentyne 1964
+	552	1.14E-04	Vallentyne 1964
+	546	7.10E-05	Vallentyne 1964
+	539	4.97E-05	Vallentyne 1964
+	533	2.67E-04	Abdelmoez et al., 2007
+	526	3.10E-05	Vallentyne 1964
+	505	9.04E-06	Vallentyne 1964
+	503	4.83E-05	Abdelmoez et al., 2007
+	498	5.52E-06	Vallentyne 1964
+	483	1.77E-06	Vallentyne 1964
+	482	2.48E-06	Vallentyne 1964
+	481	1.17E-06	Vallentyne 1964
+ 	450	2.07E-07	Vallentyne 1964
+Proline	613	7.17E-03	Li & Brill, 2003a
+	603	3.94E-03	Li & Brill, 2003a
+	593	2.05E-03	Li & Brill, 2003a
+	563	1.67E-04	Abdelmoez et al., 2007
+	555	3.05E-05	Vallentyne 1968
+	533	6.17E-05	Abdelmoez et al., 2007
+	503	4.67E-05	Abdelmoez et al., 2007
+ 	489	1.71E-07	Vallentyne 1968
+Serine	573	4.02E-01	Sato et al., 2004
+	573	1.27E-01	Li & Brill, 2003a
+	563	7.94E-02	Li & Brill, 2003a
+	563	2.40E-02	Abdelmoez et al., 2007
+	553	5.52E-02	Li & Brill, 2003a
+	543	3.41E-02	Li & Brill, 2003a
+	533	6.17E-03	Abdelmoez et al., 2007
+	503	1.37E-03	Abdelmoez et al., 2007
+	489	4.35E-04	Vallentyne 1964
+	473	2.92E-04	Andersson & Holm, 2000
+	458	2.13E-05	Vallentyne 1964
+ 	425	4.55E-06	Vallentyne 1964
+Threonine	573	9.21E-02	Li & Brill, 2003a
+	563	5.39E-02	Li & Brill, 2003a
+	553	3.27E-02	Li & Brill, 2003a
+	543	1.76E-02	Li & Brill, 2003a
+	503	4.30E-03	Abdelmoez et al., 2007
+	489	3.70E-04	Vallentyne 1964
+	425	1.23E-05	Vallentyne 1964
+ 	386	1.11E-07	Vallentyne 1964
+Valine	603	3.05E-02	Li & Brill, 2003b
+	593	1.60E-02	Li & Brill, 2003b
+	583	8.65E-03	Li & Brill, 2003b
+	563	1.02E-03	Abdelmoez et al., 2007
+	533	4.50E-05	Abdelmoez et al., 2007
+	503	1.83E-05	Abdelmoez et al., 2007
+ 	489	5.78E-06	Vallentyne 1964
