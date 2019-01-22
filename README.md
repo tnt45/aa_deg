@@ -1,5 +1,5 @@
 # aa_deg
-kinetic rate constants for amino acid decomposition
+Kinetic rate constants for amino acids decomposition in water
 
 Literature data sources:
 
