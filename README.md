@@ -1,7 +1,7 @@
 # aa_deg
 kinetic rate constants for amino acid decomposition
 
-Literature sources
+Literature data sources:
 
 Abdelmoez, W., Nakahasi, T., & Yoshida, H. (2007). Amino Acid Transformation and Decomposition in Saturated Subcritical Water Conditions. Industrial & Engineering Chemistry Research, 46(16), 5286–5294. https://doi.org/10.1021/ie070151b
 
