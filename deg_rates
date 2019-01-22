@@ -83,38 +83,38 @@ Phenylalanine	603		2.86E-02		Li & Brill, 2003a
 		482		2.48E-06		Vallentyne 1964
 		481		1.17E-06		Vallentyne 1964
  		450		2.07E-07		Vallentyne 1964
-Proline		613	7.17E-03	Li & Brill, 2003a
-	603	3.94E-03	Li & Brill, 2003a
-	593	2.05E-03	Li & Brill, 2003a
-	563	1.67E-04	Abdelmoez et al., 2007
-	555	3.05E-05	Vallentyne 1968
-	533	6.17E-05	Abdelmoez et al., 2007
-	503	4.67E-05	Abdelmoez et al., 2007
- 	489	1.71E-07	Vallentyne 1968
-Serine	573	4.02E-01	Sato et al., 2004
-	573	1.27E-01	Li & Brill, 2003a
-	563	7.94E-02	Li & Brill, 2003a
-	563	2.40E-02	Abdelmoez et al., 2007
-	553	5.52E-02	Li & Brill, 2003a
-	543	3.41E-02	Li & Brill, 2003a
-	533	6.17E-03	Abdelmoez et al., 2007
-	503	1.37E-03	Abdelmoez et al., 2007
-	489	4.35E-04	Vallentyne 1964
-	473	2.92E-04	Andersson & Holm, 2000
-	458	2.13E-05	Vallentyne 1964
- 	425	4.55E-06	Vallentyne 1964
-Threonine	573	9.21E-02	Li & Brill, 2003a
-	563	5.39E-02	Li & Brill, 2003a
-	553	3.27E-02	Li & Brill, 2003a
-	543	1.76E-02	Li & Brill, 2003a
-	503	4.30E-03	Abdelmoez et al., 2007
-	489	3.70E-04	Vallentyne 1964
-	425	1.23E-05	Vallentyne 1964
- 	386	1.11E-07	Vallentyne 1964
-Valine	603	3.05E-02	Li & Brill, 2003b
-	593	1.60E-02	Li & Brill, 2003b
-	583	8.65E-03	Li & Brill, 2003b
-	563	1.02E-03	Abdelmoez et al., 2007
-	533	4.50E-05	Abdelmoez et al., 2007
-	503	1.83E-05	Abdelmoez et al., 2007
- 	489	5.78E-06	Vallentyne 1964
+Proline		613		7.17E-03		Li & Brill, 2003a
+		603		3.94E-03		Li & Brill, 2003a
+		593		2.05E-03		Li & Brill, 2003a
+		563		1.67E-04		Abdelmoez et al., 2007
+		555		3.05E-05		Vallentyne 1968
+		533		6.17E-05		Abdelmoez et al., 2007
+		503		4.67E-05		Abdelmoez et al., 2007
+ 		489		1.71E-07		Vallentyne 1968
+Serine		573		4.02E-01		Sato et al., 2004
+		573		1.27E-01		Li & Brill, 2003a
+		563		7.94E-02		Li & Brill, 2003a
+		563		2.40E-02		Abdelmoez et al., 2007
+		553		5.52E-02		Li & Brill, 2003a
+		543		3.41E-02		Li & Brill, 2003a
+		533		6.17E-03		Abdelmoez et al., 2007
+		503		1.37E-03		Abdelmoez et al., 2007
+		489		4.35E-04		Vallentyne 1964
+		473		2.92E-04		Andersson & Holm, 2000
+		458		2.13E-05		Vallentyne 1964
+ 		425		4.55E-06		Vallentyne 1964
+Threonine	573		9.21E-02		Li & Brill, 2003a
+		563		5.39E-02		Li & Brill, 2003a
+		553		3.27E-02		Li & Brill, 2003a
+		543		1.76E-02		Li & Brill, 2003a
+		503		4.30E-03		Abdelmoez et al., 2007
+		489		3.70E-04		Vallentyne 1964
+		425		1.23E-05		Vallentyne 1964
+ 		386		1.11E-07		Vallentyne 1964
+Valine		603		3.05E-02		Li & Brill, 2003b
+		593		1.60E-02		Li & Brill, 2003b
+		583		8.65E-03		Li & Brill, 2003b
+		563		1.02E-03		Abdelmoez et al., 2007
+		533		4.50E-05		Abdelmoez et al., 2007
+		503		1.83E-05		Abdelmoez et al., 2007
+ 		489		5.78E-06		Vallentyne 1964
