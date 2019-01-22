@@ -35,55 +35,55 @@ Glycine		603		9.50E-02		Li & Brill, 2003b
 		503		3.00E-05		Abdelmoez et al., 2007
  		473		3.60E-06		Snider & Wolfenden, 2000
 Histidine	603		4.53E-02		Li & Brill, 2003a
-		593	3.03E-02	Li & Brill, 2003a
-	583	1.69E-02	Li & Brill, 2003a
-	573	9.28E-03	Li & Brill, 2003a
-	563	2.33E-03	Abdelmoez et al., 2007
-	533	3.67E-04	Abdelmoez et al., 2007
- 	503	1.43E-04	Abdelmoez et al., 2007
-Isoleucine	603	2.89E-02	Li & Brill, 2003b
-	593	1.68E-02	Li & Brill, 2003b
-	583	8.08E-03	Li & Brill, 2003b
-	563	2.50E+03	Abdelmoez et al., 2007
-	533	6.50E-04	Abdelmoez et al., 2007
- 	503	3.00E-04	Abdelmoez et al., 2007
-Leucine	603	3.08E-02	Li & Brill, 2003b
-	593	1.95E-02	Li & Brill, 2003b
-	583	1.15E-02	Li & Brill, 2003b
-	573	3.97E-02	Sato et al., 2004
-	563	2.10E-03	Abdelmoez et al., 2007
-	555	2.92E-04	Vallentyne 1964
-	533	2.00E-04	Abdelmoez et al., 2007
-	503	6.33E-05	Abdelmoez et al., 2007
- 	473	2.43E-05	Andersson & Holm, 2000
-Methionine	573	4.47E-02	Li & Brill, 2003a
-	563	2.84E-02	Li & Brill, 2003a
-	563	1.05E-02	Abdelmoez et al., 2007
-	553	1.79E-02	Li & Brill, 2003a
-	543	1.05E-02	Li & Brill, 2003a
-	533	1.47E-03	Abdelmoez et al., 2007
- 	503	3.33E-04	Abdelmoez et al., 2007
-Phenylalanine	603	2.86E-02	Li & Brill, 2003a
-	593	1.76E-02	Li & Brill, 2003a
-	583	9.07E-03	Li & Brill, 2003a
-	573	4.24E-03	Li & Brill, 2003a
-	568	2.37E-04	Vallentyne 1964
-	563	1.17E-03	Abdelmoez et al., 2007
-	562	2.16E-04	Vallentyne 1964
-	556	1.58E-04	Vallentyne 1964
-	552	1.14E-04	Vallentyne 1964
-	546	7.10E-05	Vallentyne 1964
-	539	4.97E-05	Vallentyne 1964
-	533	2.67E-04	Abdelmoez et al., 2007
-	526	3.10E-05	Vallentyne 1964
-	505	9.04E-06	Vallentyne 1964
-	503	4.83E-05	Abdelmoez et al., 2007
-	498	5.52E-06	Vallentyne 1964
-	483	1.77E-06	Vallentyne 1964
-	482	2.48E-06	Vallentyne 1964
-	481	1.17E-06	Vallentyne 1964
- 	450	2.07E-07	Vallentyne 1964
-Proline	613	7.17E-03	Li & Brill, 2003a
+		593		3.03E-02		Li & Brill, 2003a
+		583		1.69E-02		Li & Brill, 2003a
+		573		9.28E-03		Li & Brill, 2003a
+		563		2.33E-03		Abdelmoez et al., 2007
+		533		3.67E-04		Abdelmoez et al., 2007
+ 		503		1.43E-04		Abdelmoez et al., 2007
+Isoleucine	603		2.89E-02		Li & Brill, 2003b
+		593		1.68E-02		Li & Brill, 2003b
+		583		8.08E-03		Li & Brill, 2003b
+		563		2.50E+03		Abdelmoez et al., 2007
+		533		6.50E-04		Abdelmoez et al., 2007
+ 		503		3.00E-04		Abdelmoez et al., 2007
+Leucine		603		3.08E-02		Li & Brill, 2003b
+		593		1.95E-02		Li & Brill, 2003b
+		583		1.15E-02		Li & Brill, 2003b
+		573		3.97E-02		Sato et al., 2004
+		563		2.10E-03		Abdelmoez et al., 2007
+		555		2.92E-04		Vallentyne 1964
+		533		2.00E-04		Abdelmoez et al., 2007
+		503		6.33E-05		Abdelmoez et al., 2007
+ 		473		2.43E-05		Andersson & Holm, 2000
+Methionine	573		4.47E-02		Li & Brill, 2003a
+		563		2.84E-02		Li & Brill, 2003a
+		563		1.05E-02		Abdelmoez et al., 2007
+		553		1.79E-02		Li & Brill, 2003a
+		543		1.05E-02		Li & Brill, 2003a
+		533		1.47E-03		Abdelmoez et al., 2007
+ 		503		3.33E-04		Abdelmoez et al., 2007
+Phenylalanine	603		2.86E-02		Li & Brill, 2003a
+		593		1.76E-02		Li & Brill, 2003a
+		583		9.07E-03		Li & Brill, 2003a
+		573		4.24E-03		Li & Brill, 2003a
+		568		2.37E-04		Vallentyne 1964
+		563		1.17E-03		Abdelmoez et al., 2007
+		562		2.16E-04		Vallentyne 1964
+		556		1.58E-04		Vallentyne 1964
+		552		1.14E-04		Vallentyne 1964
+		546		7.10E-05		Vallentyne 1964
+		539		4.97E-05		Vallentyne 1964
+		533		2.67E-04		Abdelmoez et al., 2007
+		526		3.10E-05		Vallentyne 1964
+		505		9.04E-06		Vallentyne 1964
+		503		4.83E-05		Abdelmoez et al., 2007
+		498		5.52E-06		Vallentyne 1964
+		483		1.77E-06		Vallentyne 1964
+		482		2.48E-06		Vallentyne 1964
+		481		1.17E-06		Vallentyne 1964
+ 		450		2.07E-07		Vallentyne 1964
+Proline		613	7.17E-03	Li & Brill, 2003a
 	603	3.94E-03	Li & Brill, 2003a
 	593	2.05E-03	Li & Brill, 2003a
 	563	1.67E-04	Abdelmoez et al., 2007
